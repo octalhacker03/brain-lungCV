@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python
+numpy
+pandas
+pillow
